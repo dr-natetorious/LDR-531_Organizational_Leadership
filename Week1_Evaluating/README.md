@@ -6,3 +6,4 @@
 ## Assignments
 
 - [Discussions](Discussions.md)
+- [Personality Test](DiSC_PersonalityTest.pdf)
