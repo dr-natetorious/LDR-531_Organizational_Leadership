@@ -4,15 +4,15 @@
 
 Some times to understand what makes something good, we need to look at what makes something bad. From my experience I've had a few bad leaders that I'll summarize here.
 
-First was "Mr. Bradly" the supervisor at a high school position. He didn't care to motivate people, once openly quoting "there is no reason to ever give anyone a raise, we can train and replace all of you within a month." While it was an accurate statement he didn't need to be so blunt. 
+First was "Mr. Bradly" the supervisor at a high school position. He didn't care to motivate people, once openly quoting "there is no reason to ever give anyone a raise, we can train and replace all of you within a month." While it was an accurate statement he didn't need to be so blunt.
 
 Then there was "Curt" and "Jeff" mid level managers at different companies. While they both worked hard and wanted to do the right thing, it was clear that upper management did not respect them. This made them ineffective and working under them felt like dead end career moves.
 
 Then there was "Jeremy" who was nice to your two faced in his actions. Worse he would steal from our tills then take the difference from our check. Having a corrupt and unethical boss makes the employees feel the system is fixed and not worth the effort.
 
-When I worked at a mid sized consulting business which had only a few dozen employees. One of the people that I worked with often was named Ryan. He was very calm, patient, and very technically competent. 
+When I worked at a mid sized consulting business which had only a few dozen employees. One of the people that I worked with often was named Ryan. He was very calm, patient, and very technically competent.
 
-He had a way of getting things done which was almost smooth. When he needed help on a project he would state the problem and provide some general details of the customer who was paying for the solution. If you didn't have time to solve it that was fine he could take a crack at it. Even if you didn't have time the guy was so nice, not push over nice, that you wanted to rearrange your schedule or stay late to help out. 
+He had a way of getting things done which was almost smooth. When he needed help on a project he would state the problem and provide some general details of the customer who was paying for the solution. If you didn't have time to solve it that was fine he could take a crack at it. Even if you didn't have time the guy was so nice, not push over nice, that you wanted to rearrange your schedule or stay late to help out.
 
 After six months I had my first review with the CTO, who asked what I thought of my management chain. I told the CTO that he was an alright guy no complaints, to which he replied I'm not your boss Ryan is.
 
@@ -26,7 +26,7 @@ For example if a team member is overwhelmed due to too many tasks, recent person
 
 If the leader has the needed traits to be more of an oversight official then they are more likely to be successful. The employees feel less micromanaged at one end of the spectrum while the other feels they are getting the needed support.
 
-### If a leader has an employee that cannot keep up with tasks, [...] make the choice if the employee is worth replacement or not.
+### If a leader has an employee that cannot keep up with tasks, [...] make the choice if the employee is worth replacement or not
 
 I do not disagree with that point and it would be part of the manager being available at just the right amount. For employees that either lack maturity or have regressed due to a personal issue, the leader needs to be more involved and keep a closer eye on the situation. Contrasted, if the employee is a high performer, then the situation can often be better handled by not handling at all.
 
@@ -70,7 +70,7 @@ It's 20$ on Amazon if anyone else wants to also grab a copy.
 
 ## Project Oxygen: Building Better Bosses
 
-Google collected a lot of metrics about its leadership and tried to define what makes a good boss. They concluded that the best bosses are those with interpersonal skills that left the people alone. Meanwhile technical competencies was at the bottom of the list of desired traits. 
+Google collected a lot of metrics about its leadership and tried to define what makes a good boss. They concluded that the best bosses are those with interpersonal skills that left the people alone. Meanwhile technical competencies was at the bottom of the list of desired traits.
 
 From my experience that really depends on the maturity of the employee versus the complexity of the task. When we are entry level employees, and lack the confidence that we are even doing the right thing, have a more technical director is preferred. This enables the employee to get both the "how and why" which is typically lacking in theoretical studies (such as traditional colleges). 
 

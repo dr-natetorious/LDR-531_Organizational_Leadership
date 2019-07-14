@@ -8,7 +8,7 @@ Depending on the situation being the "leader" or "grunt" will be significantly m
 
 This requires a lot of relatively straight forward mechanical work, that stilled workers can accomplish with out encoring large amounts of stress. In contrast the lead architect of the project needs to worry about every detail, ensure senior leadership is happy, and deeply think about every issue.
 
-Contrast that with being a manager of software project that is in maintenance mode (no more large changes planned). They only need to worry about the day to day business and when there is an issue they delegate it to the individual contributors.  In this scenario the leader receives the benefits of being on auto pilot. 
+Contrast that with being a manager of software project that is in maintenance mode (no more large changes planned). They only need to worry about the day to day business and when there is an issue they delegate it to the individual contributors.  In this scenario the leader receives the benefits of being on auto pilot.
 
 ## Personalitity Styles in the Workplace
 
@@ -32,7 +32,7 @@ This occurs not only in personalities but in other closed economic models, where
 
 Typically when someone thinks about motivating there employees the first thought is throw more money at the situation. However for most business professional positions already come with a reasonable amount of money.
 
-Don't get me wrong I'm not going to turn down an extra 5,000$/year but that's not going to change our life style. That 5k is first taxed at 28% making it really 3600, which is then distributed across 24 pay periods making it 150$ per check. 
+Don't get me wrong I'm not going to turn down an extra 5,000$/year but that's not going to change our life style. That 5k is first taxed at 28% making it really 3600, which is then distributed across 24 pay periods making it 150$ per check.
 
 Even if it did change your life its reoccurring which by definition makes it not special. To compound the problem that money will be direct deposited into an account that is used to auto pay your credit card. You never touch it or acknowledge its existence outside of a periodically connecting to your bank site.
 
@@ -54,16 +54,16 @@ To maximize the likelihood of success proper hand off of the assignment needs to
 
 Typically our team uses that general workflow for all new projects. After everyone agrees on the vision and direction, someone on my team will own that work all up. If there is large change requests they will bring them to the weekly triage meeting, otherwise they are free to prioritize fixes and figure out what "do the right thing" means.
 
-## How might you use this information to improve your management or leadership skills through professional development?
+## How might you use this information to improve your management or leadership skills through professional development
 
-In order to be effective leaders we need to first understand ourselves. One common starting point is to evaluate our personality through standardized tests and peer reviews. Based on this feedback it can help us uncover hidden characteristics that we were unaware of.  Once those traits have been surfaced we can make a conscience effort to prevent ourselves from doing these things. 
+In order to be effective leaders we need to first understand ourselves. One common starting point is to evaluate our personality through standardized tests and peer reviews. Based on this feedback it can help us uncover hidden characteristics that we were unaware of.  Once those traits have been surfaced we can make a conscience effort to prevent ourselves from doing these things.
 
 For example I used to have a horrible trait of calling stupid things stupid, however that is rude and doesn't help progress the dialog. Now that I am aware of it, in situations of "moronic discussion" I work harder at directing the conversation instead of killing it. I look for the good idea that is hidden in the middle of the madness and figure out how we can extract that. If that is not possible there's always Angry Birds until the meeting ends.
 
 ## What are successful traits of mentors
 
-Mentors have a lot of influence especially over new employees. They are responsible for teaching the organizational culture and also how to get the tasks at hand complete. In the past I've had both good and bad mentors.
+Mentors have a lot of influence, especially over new employees. They are responsible for teaching the organizational culture and also how to get the tasks at hand complete. In the past, I've had both good and bad mentors.
 
-When I think of the good mentors I think of supervisors that wanted to teach different views and get me outside of my comfort zone. They would encourage new tasks and suggest high visibility projects that would improve the work environment.
+When I think of the excellent mentors, I think of supervisors that wanted to teach different views and get me outside of my comfort zone. They would encourage new tasks and suggest high visibility projects that would improve the work environment.
 
-When I think of the bad mentors they were typically unhappy with their job. They cheated the system and played the odds that no one would fire them. They knew how to get out of work while still covering their behind. This works for a short time but is not the way to build a career.
+When I think of the bad mentors, they were typically unhappy with their job. They cheated the system and played the odds that no one would fire them. They knew how to get out of work while still covering their behind. Cheating can work for a short time but it is not the way to build a career.
